@@ -1,3 +1,7 @@
+//Function extracted from the library http://playground.arduino.cc/Code/Time
+//if you just need the function without compiling few kbs and you need to save 
+//space, this is the way to go
+
 #define SECS_PER_MIN  (60UL)
 #define SECS_PER_HOUR (3600UL)
 #define SECS_PER_DAY  (SECS_PER_HOUR * 24UL)
